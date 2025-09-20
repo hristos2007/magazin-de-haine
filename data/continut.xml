@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <titlu>STONECITY</titlu>
+
+    <meniu>
+        <item>Acasa</item>
+        <item>Despre noi</item>
+        <item>Livrare</item>
+        <item>Contacte</item>
+    </meniu>
+
+    <sectiuni>
+        <sectiune>
+            <titlu>Despre noi</titlu>
+            <paragraf> În magazinul nostru, veți găsi Stone Island - un brand care a revoluționat conceptul de îmbrăcăminte tehnică. Oferim produse confecționate din materiale care își schimbă culoarea, sunt hidrofuge și rezistente la vânt. Descoperiți viitorul stilului și funcționalității. </paragraf>
+        </sectiune>
+        <sectiune>
+            <titlu>Livrare</titlu>
+            <paragraf>Comanda dumneavoastră va fi livrată oriunde în lume prin servicii fiabile, iar în Republica Moldova oferim livrare rapidă prin curier și urmărire.</paragraf>
+        </sectiune>
+        <sectiune>
+            <titlu>Contacte</titlu>
+            <paragraf>Telefonul de contact: +37369647748</paragraf>
+        </sectiune>
+    </sectiuni>
+</site>
