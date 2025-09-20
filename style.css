@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    color: white;
+    background: linear-gradient(to right, black, #0c1c29, black);
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 32px;
+}
+
+.menu {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.menu a:hover {
+    color: #b3b3b3;
+}
+
+.logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 28px;
+    letter-spacing: 2px;
+    white-space: nowrap;
+}
+
+.logo span {
+    color: #e5e5e5;
+}
+
+.contacts {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border-radius: 50%;
+    padding: 8px;
+    width: 36px;
+    height: 36px;
+    transition: background 0.2s ease;
+}
+
+.icon img {
+    width: 20px;
+    height: 20px;
+}
+
+.icon:hover {
+    background: #e5e5e5;
+}
+
+.phone {
+    display: inline-block;
+    background: white;
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 9999px;
+    padding: 8px 16px;
+    transition: background 0.2s ease;
+}
+
+.phone:hover {
+    background: #e5e5e5;
+}
+
+.preview {
+    object-fit: cover;
+    width: 100%;
+    height: 600px;
+}

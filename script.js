@@ -1,0 +1,1 @@
+console.log("Magazin de Haine – JavaScript încărcat.");
